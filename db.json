@@ -1,0 +1,48 @@
+{"Products":[
+    {"AppleZone": [
+      {
+        "id": 1,
+        "title": "Apple iPhone 11, 128 GB, 6.1 Liquid Retina HD, Chip A13 Bionic, iOS",
+        "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/ES_1464575_M_S1001_1024x1024.png?v=1659606588","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_321e062b-c397-4715-b35f-37cb8bc5e370_large.png?v=1659606588"],
+        "description": "https://cms-images.mmst.eu/osyynfyvlyjc/1DwXTu4tv1PiD66VEPFCtA/d6ee7a231baabfca104cef40137678d9/1146-1.png?q=80",
+        "price": 399,
+        "color": ["black", "white"]
+      },
+      {
+        "id": 2,
+        "title": "Apple iPhone 13, (PRODUCT)RED, 256 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS",
+        "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8df2ba12-dd1c-4e78-9a9c-d3149326f5c6_1024x1024.png?v=1631868521","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3bb7182c-9dc1-4106-bf0a-8c2f62ab4c30_large.png?v=1631868521","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_66856f86-f44c-4bfa-91dc-d51bf54be4a3_large.png?v=1631868521","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_e58cd163-cc4e-49bb-b0c9-ae3e80471af9_compact.png?v=1631868521"],
+        "description": "https://cms-images.mmst.eu/osyynfyvlyjc/1DwXTu4tv1PiD66VEPFCtA/d6ee7a231baabfca104cef40137678d9/1146-1.png?q=80",
+        "price": 549,
+        "color": ["red"]
+      },
+      {
+        "id": 3,
+        "title": "Apple iPhone 13, 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS",
+        "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8ad57f90-cbe1-45bf-a545-b0a8ee5451b1_1024x1024.png?v=1631868520","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_db75dddf-a9ce-4819-beea-55c44d8bc4ea_compact.png?v=1631868520","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_24e4633c-d31e-4027-81d1-0a2d5ce6d36f_compact.png?v=1631868520"],
+        "description": "https://cms-images.mmst.eu/osyynfyvlyjc/24HJrYlA6hK9izTlUUOGrw/8cd2769bb08837cd169527472ad6b8e3/img3.png?q=80",
+        "price": 579,
+        "color": ["blue", "white", "black", "pink","green"]
+      },
+      {
+        "id": 4,
+        "title": "Apple iPhone 14, 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS",
+        "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_04722e18-7cda-4268-8543-93e1d0a89086_1024x1024.png?v=1662720818","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_365f4850-71e3-4dde-bdeb-591e7f7c34a9_large.png?v=1662720820","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_220e5260-0357-4c28-97dc-9c7cef7ed889_large.png?v=1662720828"],
+        "description": "https://cms-images.mmst.eu/osyynfyvlyjc/24HJrYlA6hK9izTlUUOGrw/8cd2769bb08837cd169527472ad6b8e3/img3.png?q=80",
+        "price": 745,
+        "color": ["black", "white", "blue", "purple"]
+      },
+      {
+        "id": 5,
+        "title": "Apple iPhone 14 Plus, 256GB, 5G, 6.7  Pantalla Super Retina XDR, Chip A15 Bionic, iOS",
+        "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_15dea926-2a9b-48c2-a6a2-d50eca66feae_1024x1024.png?v=1662720781","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_f5aab2d4-a3e3-4d83-95f3-f427c6fcb385_large.png?v=1662720783","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3639f582-0ac1-4a99-af70-d9d4b4820150_large.png?v=1662720785"],
+        "description": "https://cms-images.mmst.eu/osyynfyvlyjc/24HJrYlA6hK9izTlUUOGrw/8cd2769bb08837cd169527472ad6b8e3/img3.png?q=80",
+        "price": 829,
+        "color": ["black"]
+      }
+    ]},{
+      "Samsungs": [
+      
+    ]
+    }
+  ]} 
