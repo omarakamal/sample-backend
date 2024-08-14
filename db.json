@@ -1,48 +1,152 @@
-{"Products":[
-    {"AppleZone": [
-      {
-        "id": 1,
-        "title": "Apple iPhone 11, 128 GB, 6.1 Liquid Retina HD, Chip A13 Bionic, iOS",
-        "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/ES_1464575_M_S1001_1024x1024.png?v=1659606588","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_321e062b-c397-4715-b35f-37cb8bc5e370_large.png?v=1659606588"],
-        "description": "https://cms-images.mmst.eu/osyynfyvlyjc/1DwXTu4tv1PiD66VEPFCtA/d6ee7a231baabfca104cef40137678d9/1146-1.png?q=80",
-        "price": 399,
-        "color": ["black", "white"]
-      },
-      {
-        "id": 2,
-        "title": "Apple iPhone 13, (PRODUCT)RED, 256 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS",
-        "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8df2ba12-dd1c-4e78-9a9c-d3149326f5c6_1024x1024.png?v=1631868521","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3bb7182c-9dc1-4106-bf0a-8c2f62ab4c30_large.png?v=1631868521","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_66856f86-f44c-4bfa-91dc-d51bf54be4a3_large.png?v=1631868521","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_e58cd163-cc4e-49bb-b0c9-ae3e80471af9_compact.png?v=1631868521"],
-        "description": "https://cms-images.mmst.eu/osyynfyvlyjc/1DwXTu4tv1PiD66VEPFCtA/d6ee7a231baabfca104cef40137678d9/1146-1.png?q=80",
-        "price": 549,
-        "color": ["red"]
-      },
-      {
-        "id": 3,
-        "title": "Apple iPhone 13, 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS",
-        "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8ad57f90-cbe1-45bf-a545-b0a8ee5451b1_1024x1024.png?v=1631868520","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_db75dddf-a9ce-4819-beea-55c44d8bc4ea_compact.png?v=1631868520","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_24e4633c-d31e-4027-81d1-0a2d5ce6d36f_compact.png?v=1631868520"],
-        "description": "https://cms-images.mmst.eu/osyynfyvlyjc/24HJrYlA6hK9izTlUUOGrw/8cd2769bb08837cd169527472ad6b8e3/img3.png?q=80",
-        "price": 579,
-        "color": ["blue", "white", "black", "pink","green"]
-      },
-      {
-        "id": 4,
-        "title": "Apple iPhone 14, 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS",
-        "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_04722e18-7cda-4268-8543-93e1d0a89086_1024x1024.png?v=1662720818","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_365f4850-71e3-4dde-bdeb-591e7f7c34a9_large.png?v=1662720820","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_220e5260-0357-4c28-97dc-9c7cef7ed889_large.png?v=1662720828"],
-        "description": "https://cms-images.mmst.eu/osyynfyvlyjc/24HJrYlA6hK9izTlUUOGrw/8cd2769bb08837cd169527472ad6b8e3/img3.png?q=80",
-        "price": 745,
-        "color": ["black", "white", "blue", "purple"]
-      },
-      {
-        "id": 5,
-        "title": "Apple iPhone 14 Plus, 256GB, 5G, 6.7  Pantalla Super Retina XDR, Chip A15 Bionic, iOS",
-        "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_15dea926-2a9b-48c2-a6a2-d50eca66feae_1024x1024.png?v=1662720781","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_f5aab2d4-a3e3-4d83-95f3-f427c6fcb385_large.png?v=1662720783","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3639f582-0ac1-4a99-af70-d9d4b4820150_large.png?v=1662720785"],
-        "description": "https://cms-images.mmst.eu/osyynfyvlyjc/24HJrYlA6hK9izTlUUOGrw/8cd2769bb08837cd169527472ad6b8e3/img3.png?q=80",
-        "price": 829,
-        "color": ["black"]
-      }
-    ]},{
-      "Samsungs": [
-      
-    ]
+{
+  "Products":[
+    {
+      "id": 1,
+      "title": ["Apple iPhone 11",", 128 GB, 6.1 Liquid Retina HD, Chip A13 Bionic, iOS"],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/ES_1464575_M_S1001_1024x1024.png?v=1659606588",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_321e062b-c397-4715-b35f-37cb8bc5e370_large.png?v=1659606588"
+      ],
+      "description": "https://cms-images.mmst.eu/osyynfyvlyjc/1DwXTu4tv1PiD66VEPFCtA/d6ee7a231baabfca104cef40137678d9/1146-1.png?q=80",
+      "price": 399,
+      "color": [
+        "black",
+        "white"
+      ],
+      "categoryId":1
+    },
+
+    {
+      "id": 2,
+      "title": ["Apple iPhone 13",", (PRODUCT)RED, 256 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8df2ba12-dd1c-4e78-9a9c-d3149326f5c6_1024x1024.png?v=1631868521",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3bb7182c-9dc1-4106-bf0a-8c2f62ab4c30_large.png?v=1631868521",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_66856f86-f44c-4bfa-91dc-d51bf54be4a3_large.png?v=1631868521"
+      ],
+      "description": "https://cms-images.mmst.eu/osyynfyvlyjc/1DwXTu4tv1PiD66VEPFCtA/d6ee7a231baabfca104cef40137678d9/1146-1.png?q=80",
+      "price": 549,
+      "color": [
+        "red"
+      ],
+      "categoryId":1
+    },
+
+    {
+      "id": 3,
+      "title": ["Apple iPhone 13",", 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8ad57f90-cbe1-45bf-a545-b0a8ee5451b1_1024x1024.png?v=1631868520",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_db75dddf-a9ce-4819-beea-55c44d8bc4ea_compact.png?v=1631868520",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_24e4633c-d31e-4027-81d1-0a2d5ce6d36f_compact.png?v=1631868520"
+      ],
+      "description": "https://cms-images.mmst.eu/osyynfyvlyjc/24HJrYlA6hK9izTlUUOGrw/8cd2769bb08837cd169527472ad6b8e3/img3.png?q=80",
+      "price": 579,
+      "color": [
+        "blue",
+        "white",
+        "black",
+        "pink",
+        "green"
+      ],
+      "categoryId":1
+    },
+
+    {
+      "id": 4,
+      "title": ["Bpple iPhone 14",", 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_04722e18-7cda-4268-8543-93e1d0a89086_1024x1024.png?v=1662720818",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_365f4850-71e3-4dde-bdeb-591e7f7c34a9_large.png?v=1662720820",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_220e5260-0357-4c28-97dc-9c7cef7ed889_large.png?v=1662720828"
+      ],
+      "description": "https://cms-images.mmst.eu/osyynfyvlyjc/24HJrYlA6hK9izTlUUOGrw/8cd2769bb08837cd169527472ad6b8e3/img3.png?q=80",
+      "price": 745,
+      "color": [
+        "black",
+        "white",
+        "blue",
+        "purple"
+      ],
+      "categoryId":1
+    },
+
+    {
+      "id": 5,
+      "title": ["Apple iPhone 14 Plus",", 256GB, 5G, 6.7  Pantalla Super Retina XDR, Chip A15 Bionic, iOS"],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_15dea926-2a9b-48c2-a6a2-d50eca66feae_1024x1024.png?v=1662720781",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_f5aab2d4-a3e3-4d83-95f3-f427c6fcb385_large.png?v=1662720783",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3639f582-0ac1-4a99-af70-d9d4b4820150_large.png?v=1662720785"
+      ],
+      "description": "https://cms-images.mmst.eu/osyynfyvlyjc/24HJrYlA6hK9izTlUUOGrw/8cd2769bb08837cd169527472ad6b8e3/img3.png?q=80",
+      "price": 829,
+      "color": [
+        "black"
+      ],
+      "categoryId":1
     }
-  ]} 
+    ,{
+      "id":6,
+      "title": ["Robot aspirador"," - Xiaomi Robot Vacuum S12, 45W, WiFi, Autonomía 130 min, Navegación láser , Sensor LDS, Control por app, Blanco"],
+      "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_961c5771-0a5d-4dd1-adab-2468e904c862_1024x1024.png?v=1684421167","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_40c6bfdb-fe8f-4331-82d5-30726b8d5b93_large.png?v=1684421169","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8a5afffb-04bf-422b-99c7-d55a02fe162e_large.png?v=1684421171"],
+      "descriptionText": ["Consigue la aspiración perfecta de tu hogar con el robot aspirador Xiaomi Vacuum S12 con navegación láser y mapas inteligentes.","La navegación láser detecta con precisión el entorno","El Xiaomi Robot Vacuum S12 está equipado con tecnología de navegación láser,que puede lograr una exploración de 360°, identificar rápidamente el entorno doméstico y crear un mapa de la casa preciso.","Sensor LDS elevado con rango de detección de 360°","El robot incluye un sensor de distancia láser de vanguardia que permite un posicionamiento y mediciones de distancia precisos, además de un mejor rendimiento."],     
+      "originalPrice":299,
+      "price": 159,
+      "categoryId": 4
+    },
+    {
+      "id":7,
+      "title": ["Cafetera express"," - Cecotec Cafelizzia 790 Steel, 1350W, Calentamiento rápido, 20 bar, 1.2 L, 1-2 cafés, Inox"],
+      "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_43f45bff-3556-4227-877e-c7a858292435_1024x1024.png?v=1668076615","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_945fd87f-02be-49d3-944f-789f22fba51f_large.png?v=1668076615"],
+      "descriptionText": ["Cafetera express - Cecotec Cafelizzia 790 Steel, 1350W, Calentamiento rápido, 20 bar, 1.2 L, 1-2 cafés, Inox"],
+      "originalPrice":129,
+      "price": 79.99,
+      "categoryId": 4
+    },
+    {
+      "id":8,
+      "title": ["Grill - Cecotec Rock","nGrill 1000W, Antiadherente, 25.4x17.5 cm, Luz indicadora"],
+      "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_94b6b172-26a2-46fb-a15c-ecae66f95b6b_1024x1024.png?v=1580329210"],
+      "descriptionText": ["Grill - Cecotec RocknGrill 1000W, Antiadherente, 25.4x17.5 cm, Luz indicadora"],
+      "originalPrice":35.90,
+      "price": 27.99,
+      "categoryId": 4
+    },
+    {
+      "id":9,
+      "title": ["Aire acondicionado portátil"," - Cecotec ForceClima 7100 Soundless, 780 W, 1764 fg/h, 4 modos, 2 velocidades, Silencioso, Mando a distancia, Blanco"],
+      "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_21fa780c-44a0-4cb3-8b95-0b236c1c8577_large.png?v=1683727894","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_57f7cdf1-2f9a-4dce-bd50-a253f16e7f93_large.png?v=1683727895","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_5163d7b5-b4f0-4399-9595-d80c022eff74_large.png?v=1683727899"],
+      "descriptionText": ["Frescor inmediato con el aire acondicionado portátil ForceClima 7100 Soundless de Cecotec. Con un funcionamiento silencioso, te ofrece un confort total gracias a su control remoto, 4 modos y 2 velocidades. Utiliza el gas R-290, respetuoso con el medioambiente y apenas contaminante. Su gran potencia de 780 W permite al aire acondicionado cubrir áreas de 15 m² y conseguir la temperatura deseada en un breve periodo de tiempo.","Gran capacidad de enfriamiento","7000 BTU que facilitan conseguir la temperatura deseada en la estancia de manera rápida y eficaz.","Tecnología Soundless","Sistema que aporta un funcionamiento más silencioso y además reduce las posibles vibraciones para crear un mayor confort."],
+      "originalPrice": 224.90,
+      "price": 169,
+      "categoryId": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "AppleZone"
+    },
+    {
+      "id": 2,
+      "name": "Smartphones"
+    },
+    {
+      "id": 3,
+      "name": "Televisions"
+    },
+    {
+      "id": 4,
+      "name": "Offers"
+    },
+    {
+      "id": 5,
+      "name": "HouseholdAppliances"
+    },
+    {
+      "id": 6,
+      "name": "Laptops"
+    }
+  ]
+}
