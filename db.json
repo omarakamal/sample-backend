@@ -1,8 +1,11 @@
 {
-  "Products":[
+  "Products": [
     {
       "id": 1,
-      "title": ["Apple iPhone 11",", 128 GB, 6.1 Liquid Retina HD, Chip A13 Bionic, iOS"],
+      "title": [
+        "Apple iPhone 11",
+        ", 128 GB, 6.1 Liquid Retina HD, Chip A13 Bionic, iOS"
+      ],
       "pictures": [
         "https://canarias.mediamarkt.es/cdn/shop/products/ES_1464575_M_S1001_1024x1024.png?v=1659606588",
         "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_321e062b-c397-4715-b35f-37cb8bc5e370_large.png?v=1659606588"
@@ -13,12 +16,15 @@
         "black",
         "white"
       ],
-      "categoryId":1
+      "quantity": 1,
+      "categoryId": 1
     },
-
     {
       "id": 2,
-      "title": ["Apple iPhone 13",", (PRODUCT)RED, 256 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"],
+      "title": [
+        "Apple iPhone 13",
+        ", (PRODUCT)RED, 256 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"
+      ],
       "pictures": [
         "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8df2ba12-dd1c-4e78-9a9c-d3149326f5c6_1024x1024.png?v=1631868521",
         "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3bb7182c-9dc1-4106-bf0a-8c2f62ab4c30_large.png?v=1631868521",
@@ -29,12 +35,15 @@
       "color": [
         "red"
       ],
-      "categoryId":1
+      "quantity": 1,
+      "categoryId": 1
     },
-
     {
       "id": 3,
-      "title": ["Apple iPhone 13",", 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"],
+      "title": [
+        "Apple iPhone 13",
+        ", 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"
+      ],
       "pictures": [
         "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8ad57f90-cbe1-45bf-a545-b0a8ee5451b1_1024x1024.png?v=1631868520",
         "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_db75dddf-a9ce-4819-beea-55c44d8bc4ea_compact.png?v=1631868520",
@@ -49,12 +58,15 @@
         "pink",
         "green"
       ],
-      "categoryId":1
+      "quantity": 1,
+      "categoryId": 1
     },
-
     {
       "id": 4,
-      "title": ["Bpple iPhone 14",", 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"],
+      "title": [
+        "Bpple iPhone 14",
+        ", 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"
+      ],
       "pictures": [
         "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_04722e18-7cda-4268-8543-93e1d0a89086_1024x1024.png?v=1662720818",
         "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_365f4850-71e3-4dde-bdeb-591e7f7c34a9_large.png?v=1662720820",
@@ -68,12 +80,15 @@
         "blue",
         "purple"
       ],
-      "categoryId":1
+      "quantity": 1,
+      "categoryId": 1
     },
-
     {
       "id": 5,
-      "title": ["Apple iPhone 14 Plus",", 256GB, 5G, 6.7  Pantalla Super Retina XDR, Chip A15 Bionic, iOS"],
+      "title": [
+        "Apple iPhone 14 Plus",
+        ", 256GB, 5G, 6.7  Pantalla Super Retina XDR, Chip A15 Bionic, iOS"
+      ],
       "pictures": [
         "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_15dea926-2a9b-48c2-a6a2-d50eca66feae_1024x1024.png?v=1662720781",
         "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_f5aab2d4-a3e3-4d83-95f3-f427c6fcb385_large.png?v=1662720783",
@@ -84,43 +99,401 @@
       "color": [
         "black"
       ],
-      "categoryId":1
-    }
-    ,{
-      "id":6,
-      "title": ["Robot aspirador"," - Xiaomi Robot Vacuum S12, 45W, WiFi, Autonomía 130 min, Navegación láser , Sensor LDS, Control por app, Blanco"],
-      "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_961c5771-0a5d-4dd1-adab-2468e904c862_1024x1024.png?v=1684421167","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_40c6bfdb-fe8f-4331-82d5-30726b8d5b93_large.png?v=1684421169","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8a5afffb-04bf-422b-99c7-d55a02fe162e_large.png?v=1684421171"],
-      "descriptionText": ["Consigue la aspiración perfecta de tu hogar con el robot aspirador Xiaomi Vacuum S12 con navegación láser y mapas inteligentes.","La navegación láser detecta con precisión el entorno","El Xiaomi Robot Vacuum S12 está equipado con tecnología de navegación láser,que puede lograr una exploración de 360°, identificar rápidamente el entorno doméstico y crear un mapa de la casa preciso.","Sensor LDS elevado con rango de detección de 360°","El robot incluye un sensor de distancia láser de vanguardia que permite un posicionamiento y mediciones de distancia precisos, además de un mejor rendimiento."],     
-      "originalPrice":299,
+      "quantity": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "title": [
+        "Robot aspirador",
+        " - Xiaomi Robot Vacuum S12, 45W, WiFi, Autonomía 130 min, Navegación láser , Sensor LDS, Control por app, Blanco"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_961c5771-0a5d-4dd1-adab-2468e904c862_1024x1024.png?v=1684421167",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_40c6bfdb-fe8f-4331-82d5-30726b8d5b93_large.png?v=1684421169",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8a5afffb-04bf-422b-99c7-d55a02fe162e_large.png?v=1684421171"
+      ],
+      "descriptionText": [
+        "Consigue la aspiración perfecta de tu hogar con el robot aspirador Xiaomi Vacuum S12 con navegación láser y mapas inteligentes.",
+        "La navegación láser detecta con precisión el entorno",
+        "El Xiaomi Robot Vacuum S12 está equipado con tecnología de navegación láser,que puede lograr una exploración de 360°, identificar rápidamente el entorno doméstico y crear un mapa de la casa preciso.",
+        "Sensor LDS elevado con rango de detección de 360°",
+        "El robot incluye un sensor de distancia láser de vanguardia que permite un posicionamiento y mediciones de distancia precisos, además de un mejor rendimiento."
+      ],
+      "originalPrice": 299,
+      "discPrice": 159,
       "price": 159,
+      "quantity": 1,
       "categoryId": 4
     },
     {
-      "id":7,
-      "title": ["Cafetera express"," - Cecotec Cafelizzia 790 Steel, 1350W, Calentamiento rápido, 20 bar, 1.2 L, 1-2 cafés, Inox"],
-      "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_43f45bff-3556-4227-877e-c7a858292435_1024x1024.png?v=1668076615","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_945fd87f-02be-49d3-944f-789f22fba51f_large.png?v=1668076615"],
-      "descriptionText": ["Cafetera express - Cecotec Cafelizzia 790 Steel, 1350W, Calentamiento rápido, 20 bar, 1.2 L, 1-2 cafés, Inox"],
-      "originalPrice":129,
+      "id": 7,
+      "title": [
+        "Cafetera express",
+        " - Cecotec Cafelizzia 790 Steel, 1350W, Calentamiento rápido, 20 bar, 1.2 L, 1-2 cafés, Inox"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_43f45bff-3556-4227-877e-c7a858292435_1024x1024.png?v=1668076615",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_945fd87f-02be-49d3-944f-789f22fba51f_large.png?v=1668076615"
+      ],
+      "descriptionText": [
+        "Cafetera express - Cecotec Cafelizzia 790 Steel, 1350W, Calentamiento rápido, 20 bar, 1.2 L, 1-2 cafés, Inox"
+      ],
+      "originalPrice": 129,
+      "discPrice": 79.99,
       "price": 79.99,
+      "quantity": 1,
       "categoryId": 4
     },
     {
-      "id":8,
-      "title": ["Grill - Cecotec Rock","nGrill 1000W, Antiadherente, 25.4x17.5 cm, Luz indicadora"],
-      "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_94b6b172-26a2-46fb-a15c-ecae66f95b6b_1024x1024.png?v=1580329210"],
-      "descriptionText": ["Grill - Cecotec RocknGrill 1000W, Antiadherente, 25.4x17.5 cm, Luz indicadora"],
-      "originalPrice":35.90,
+      "id": 8,
+      "title": [
+        "Grill - Cecotec Rock",
+        "nGrill 1000W, Antiadherente, 25.4x17.5 cm, Luz indicadora"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_94b6b172-26a2-46fb-a15c-ecae66f95b6b_1024x1024.png?v=1580329210"
+      ],
+      "descriptionText": [
+        "Grill - Cecotec RocknGrill 1000W, Antiadherente, 25.4x17.5 cm, Luz indicadora"
+      ],
+      "originalPrice": 35.9,
+      "discPrice": 27.99,
       "price": 27.99,
+      "quantity": 1,
       "categoryId": 4
     },
     {
-      "id":9,
-      "title": ["Aire acondicionado portátil"," - Cecotec ForceClima 7100 Soundless, 780 W, 1764 fg/h, 4 modos, 2 velocidades, Silencioso, Mando a distancia, Blanco"],
-      "pictures":["https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_21fa780c-44a0-4cb3-8b95-0b236c1c8577_large.png?v=1683727894","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_57f7cdf1-2f9a-4dce-bd50-a253f16e7f93_large.png?v=1683727895","https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_5163d7b5-b4f0-4399-9595-d80c022eff74_large.png?v=1683727899"],
-      "descriptionText": ["Frescor inmediato con el aire acondicionado portátil ForceClima 7100 Soundless de Cecotec. Con un funcionamiento silencioso, te ofrece un confort total gracias a su control remoto, 4 modos y 2 velocidades. Utiliza el gas R-290, respetuoso con el medioambiente y apenas contaminante. Su gran potencia de 780 W permite al aire acondicionado cubrir áreas de 15 m² y conseguir la temperatura deseada en un breve periodo de tiempo.","Gran capacidad de enfriamiento","7000 BTU que facilitan conseguir la temperatura deseada en la estancia de manera rápida y eficaz.","Tecnología Soundless","Sistema que aporta un funcionamiento más silencioso y además reduce las posibles vibraciones para crear un mayor confort."],
-      "originalPrice": 224.90,
+      "id": 9,
+      "title": [
+        "Aire acondicionado portátil",
+        " - Cecotec ForceClima 7100 Soundless, 780 W, 1764 fg/h, 4 modos, 2 velocidades, Silencioso, Mando a distancia, Blanco"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_21fa780c-44a0-4cb3-8b95-0b236c1c8577_large.png?v=1683727894",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_57f7cdf1-2f9a-4dce-bd50-a253f16e7f93_large.png?v=1683727895",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_5163d7b5-b4f0-4399-9595-d80c022eff74_large.png?v=1683727899"
+      ],
+      "descriptionText": [
+        "Frescor inmediato con el aire acondicionado portátil ForceClima 7100 Soundless de Cecotec. Con un funcionamiento silencioso, te ofrece un confort total gracias a su control remoto, 4 modos y 2 velocidades. Utiliza el gas R-290, respetuoso con el medioambiente y apenas contaminante. Su gran potencia de 780 W permite al aire acondicionado cubrir áreas de 15 m² y conseguir la temperatura deseada en un breve periodo de tiempo.",
+        "Gran capacidad de enfriamiento",
+        "7000 BTU que facilitan conseguir la temperatura deseada en la estancia de manera rápida y eficaz.",
+        "Tecnología Soundless",
+        "Sistema que aporta un funcionamiento más silencioso y además reduce las posibles vibraciones para crear un mayor confort."
+      ],
+      "originalPrice": 224.9,
+      "discPrice": 169,
       "price": 169,
+      "quantity": 1,
       "categoryId": 4
+    },
+    {
+      "id": 10,
+      "title": [
+        "Ventilador de torre",
+        "- Rowenta VU6670 Eole Infrarred Oscilación 180º Mando a distancia 3 velocidades"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_6106011c-389b-4971-8753-33b36d62a88c_1024x1024.png?v=1596821565",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_1734c9b2-5046-4e18-ab66-1e8e29d1f3a8_large.png?v=1596821565",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3c108c63-838e-4322-a7e9-945c487389ae_large.png?v=1596821565"
+      ],
+      "descriptionText": [
+        "Ventilador de torre- Rowenta VU6670 Eole Infrarred Oscilación 180º Mando a distancia 3 velocidades"
+      ],
+      "originalPrice": 159.99,
+      "discPrice": 89.99,
+      "price": 89.99,
+      "quantity": 1,
+      "categoryId": 4
+    },
+    {
+      "id": 11,
+      "title": [
+        "TV QLED 43",
+        " - Xiaomi A PRO 2025 43, QLED 4K, Smart TV (Google TV), Dolby Vision, Control por voz, Black"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_e4a74989-77de-4685-80a5-4e86576989e1_1024x1024.png?v=1715244823",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_104bc4e4-4b10-4ae6-a969-94e23edf5dc2_large.png?v=1715244826",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3c108c63-838e-4322-a7e9-945c487389ae_large.png?v=1596821565https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_fe327f7a-b590-4251-84f9-4629d0808039_large.png?v=1715244829"
+      ],
+      "descriptionText": [
+        "Disfruta de una experiencia de cine con la televisión Xiaomi A PRO 2025 con un diseño de marcos ultrafinos, sonido Dolby y sistema Google Tv para disfrutar de todas tus películas y series favoritas."
+      ],
+      "price": 269,
+      "quantity": 1,
+      "categoryId": 3
+    },
+    {
+      "id": 12,
+      "title": [
+        "TV LED 55",
+        " - Hisense 55A6N, UHD 4K, Smart TV, HDR 10+, Dolby Vision, Control por Voz, Modo Juego, IA, Negro"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_18e2ef6a-b593-45ce-9904-efe0d13e575d_1024x1024.png?v=1718380450",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1ae4b494-a3be-49b0-89a8-e2a5b845ab74_large.png?v=1718380450",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_80b82255-205e-4513-bb59-eb8744050f23_large.png?v=1718380450"
+      ],
+      "descriptionText": [
+        "Experimenta una calidad de imagen excepcional con el televisor Hisense 4K UHD 50A6N. Con su impresionante resolución, cada detalle cobra vida con una claridad asombrosa y colores vibrantes, brindándote una experiencia visual envolvente que transforma tu sala de estar en un cine personal. Equipado con un potente procesador Quad Core/ MT9603 y el sistema operativo VIDAA U7.6, garantiza un rendimiento fluido y una navegación intuitiva, permitiéndote disfrutar de tu contenido favorito."
+      ],
+      "price": 379,
+      "quantity": 1,
+      "categoryId": 3
+    },
+    {
+      "id": 13,
+      "title": [
+        "TV DLED 40",
+        " - Peaq PTV 40F-5024C, Full-HD, Triple Tuner, Dolby Audio, Negro"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6c0696f0-d1a9-4031-9461-aedacb0e3bff_1024x1024.png?v=1722950152",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_f4a28d66-e3ab-4e57-8b36-eb179955d917_large.png?v=1722950141",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1657f4f3-cca0-419f-b587-96388d21b749_large.png?v=1722950134"
+      ],
+      "descriptionText": [
+        "Disfruta de la calidad de imagen Full HD con la televisión Peaq PTV 40F-5024C."
+      ],
+      "price": 169,
+      "quantity": 1,
+      "categoryId": 3
+    },
+    {
+      "id": 14,
+      "title": [
+        "TV QLED 55",
+        " - Haier Q8 Series H55Q800UX, Smart TV (Google TV), HDR 4K, Direct LED, Dolby Atmos-Vision, Gaming 120 Hz, Negro"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_854640ec-5327-4c0d-96be-3b9e869f6007_1024x1024.png?v=1704793705",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_67e64d74-e2db-41aa-9e26-b963dd541c36_large.png?v=1704793708",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_81be062e-63f1-45f7-ba45-bc3c1c12fc09_large.png?v=1704793714"
+      ],
+      "descriptionText": [
+        "Disfruta de la calidad de imagen Full HD con la televisión Peaq PTV 40F-5024C."
+      ],
+      "price": 519,
+      "quantity": 1,
+      "categoryId": 3
+    },
+    {
+      "id": 15,
+      "title": [
+        "TV Neo QLED 55",
+        " - Samsung TQ55QN90CATXXC, Neo QLED 4K, Neural Quantum Processor 4K, Smart TV, DVB-T2 (H.265), Carbón Silver"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_5300ac96-52ae-4290-9a20-c4138d20a5af_1024x1024.png?v=1718298037",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_8f780e9a-ecab-4653-afb1-065d863e6dfc_large.png?v=1718298037",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1fe34229-6c9e-4abe-9bab-a14b5a5530b2_large.png?v=1718298037"
+      ],
+      "descriptionText": [
+        "Disfruta de la calidad de imagen Full HD con la televisión Peaq PTV 40F-5024C."
+      ],
+      "price": 989,
+      "quantity": 1,
+      "categoryId": 3
+    },
+    {
+      "id": 16,
+      "title": [
+        "Móvil - Samsung Galaxy S24 Ultra",
+        ", Titanium Black, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1bfbf29c-b979-42f5-8c29-c94f07afc3fb_1024x1024.png?v=1718294332",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_452ca788-2e24-4c88-9a6b-3a1e02181e06_large.png?v=1718294332",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_04fe6a3c-d6a3-4259-adfe-fe08496be6fb_large.png?v=1718294332"
+      ],
+      "descriptionText": [
+        "Bienvenido a la nueva era de la telefonía. Galaxy S24 Ultra es la estrella de la corona del nuevo lanzamiento de Samsung. El primer móvil con Inteligencia Artificial de la compañía supone toda una revolución, ya que ofrece sorprendentes funcionalidades que explotan todo el potencial de la Inteligencia Artificial. Descubre una nueva forma de comunicar, crear contenido, jugar y navegar con tu Galaxy S24 Ultra."
+      ],
+      "originalPrice": 1459,
+      "discPrice": 1239,
+      "price": 1239,
+      "quantity": 1,
+      "categoryId": 2
+    },
+    {
+      "id": 17,
+      "title": [
+        "Móvil - Samsung Galaxy A25 5G",
+        ", Negro, 256GB, 8GB RAM, 6.5 FHD+, Exynos 1280 Octa-Core, 5000mAh, Android 14"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_d4fabe9c-12ce-4bfe-979d-c2ccf8d4cafb_1024x1024.png?v=1718295056",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_7e6b43db-98f6-419c-ac45-75dfdd902995_large.png?v=1718295056",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_84c5f41d-44a8-49f6-88b0-3db262673c5c_large.png?v=1718295056"
+      ],
+      "descriptionText": [
+        "Amantes de la tecnología, ¡estáis de suerte! Samsung, marca puntera en tecnología móvil, presenta la nueva incorporación a la Serie A de Galaxy, una gama que suele destacar por sus originales diseños y por reafirmarse en una apuesta contundente por hacer accesibles prestaciones de muy alta calidad para todos. Así, el nuevo Galaxy A25 5G se presenta como una opción perfecta para quienes buscan un smartphone potente con el que poder divertirse, trabajar y navegar con la tranquilidad que aportan un dispositivo seguro y la posibilidad de confiar en un móvil que llega hasta donde tú digas. ¡Descubre el último fichaje y hazte con él!"
+      ],
+      "originalPrice": 339,
+      "discPrice": 215,
+      "price": 215,
+      "quantity": 1,
+      "categoryId": 2
+    },
+    {
+      "id": 18,
+      "title": [
+        "Móvil - Xiaomi Redmi Note 13 Pro 5G",
+        ", Azul, 256 GB, 8 GB RAM, 6.67 AMOLED 1.5K, Qualcomm Snapdragon 7 Gen 2, 5100 mAh, Android"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_7e97c4df-0c9b-491a-afe1-9b7290de143c_1024x1024.png?v=1704458887",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_f1d4d66b-a999-4cd3-a9ee-c848f4acb768_large.png?v=1704458889",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6d08023e-2c15-4ca7-94b7-aa4d77a56e51_large.png?v=1704458909"
+      ],
+      "descriptionText": [
+        "Redmi Note 13 Pro 5G no solo es un smartphone, es una auténtica revolución en diseño que no pasará desapercibida. Su acabado, que solo se encuentra en terminales premium, atraerá todas las miradas. Con una pantalla curva, este dispositivo se siente como una joya en tus manos, y su estilo es innegable. No contento con ser simplemente elegante, el Redmi Note 13 Pro 5G también juega con sus colores Midnight Black, Ocean Teal, Aurora Purple para que encuentres el estilo perfecto para ti. Además, sus bordes planos facilitan un agarre preciso y cómodo."
+      ],
+      "price": 313,
+      "quantity": 1,
+      "categoryId": 2
+    },
+    {
+      "id": 19,
+      "title": [
+        "Móvil - Xiaomi Redmi Note 13 Pro+ 5G",
+        ", Moonlight White, 512 GB, 12 GB RAM, 6.67 AMOLED 1.5K, MediaTek Dimensity 7200, 5000 mAh, Android"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_c36dbe69-2064-4bbe-871e-6df1e5035cd4_1024x1024.png?v=1704458888",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_3e44b6e7-245c-4cb0-93ce-620c8aa4a435_large.png?v=1704458907",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_b274f8fb-1a2c-4e5c-be8f-f302927b055f_large.png?v=1704458909"
+      ],
+      "descriptionText": [
+        "Redmi Note 13 Pro+ no solo es un smartphone, es una auténtica revolución en diseño que no pasará desapercibida. Su acabado, que solo se encuentra en terminales premium, atraerá todas las miradas. Con una pantalla curva y marcos delgados de metal, este dispositivo se siente como una joya en tus manos, y su estilo es innegable. No contento con ser simplemente elegante, el Redmi Note 13 Pro+ también juega con la paleta de colores, creando un juego de luces y sombras que te dejará hipnotizado. Cada ángulo, cada reflejo es una declaración de estilo. Y para rematar, el módulo de cámaras icónico del Redmi Note 13 Pro+ le da un toque único y personal."
+      ],
+      "price": 390,
+      "quantity": 1,
+      "categoryId": 2
+    },
+    {
+      "id": 20,
+      "title": [
+        "Móvil - Samsung Galaxy S23 5G",
+        " Phantom Black, 256GB, 8GB RAM, 6.1 FHD+, Qualcomm Snapdragon, 3900mAh, Android 13"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6bd7b47f-ec69-4f17-ba58-33d178522e32_1024x1024.png?v=1718294302",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_0a876c4a-1caf-4b93-b4f6-1f813b1b7157_large.png?v=1718294302",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_107ae62e-3323-4efc-86de-907ab1e26d90_large.png?v=1718294302"
+      ],
+      "descriptionText": [
+        "Cuando la vida es épica, quieres compartirla. Samsung Galaxy S23 hace que esos momentos sean aún más grandiosos gracias a sus increíbles apartados técnicos. Demuéstrale al mundo de qué estás hecho y qué eres capaz de hacer. Comparte tus fotos y vídeos más TOP, tus jugadas online más colosales y tus proyectos con el mundo. Prepárate para compartir momentos épicos junto al Smartphone Galaxy S23 5G."
+      ],
+      "originalPrice": 679,
+      "discPrice": 569,
+      "price": 569,
+      "quantity": 1,
+      "categoryId": 2
+    },
+    {
+      "id": 21,
+      "title": [
+        "Apple MacBook Air (2024)",
+        ", 13,6, Chip M3, GPU de 8 núcleos, 8 GB RAM, 256GB de SSD, Teclado Magic Keyboard Touch ID, macOS, Blanco estrella"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/image_7_952c5e2f-d577-4a8d-a573-6624ac93df01_1024x1024.png?v=1713868181",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_11be52c2-d497-4630-88ec-4f25c9c63a65_large.png?v=1713868181",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6e6bbd42-3aac-4b85-87fb-e3e7f0dc2cd6_large.png?v=1713868181",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_3bf9f1a6-4ba3-4984-a090-4e8e37c356cc_large.png?v=1713868181",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6817ee97-2ee3-4d0d-b46d-2adfc6604ac0_large.png?v=1713868181"
+      ],
+      "descriptionText": [
+        "Cuando la vida es épica, quieres compartirla. Samsung Galaxy S23 hace que esos momentos sean aún más grandiosos gracias a sus increíbles apartados técnicos. Demuéstrale al mundo de qué estás hecho y qué eres capaz de hacer. Comparte tus fotos y vídeos más TOP, tus jugadas online más colosales y tus proyectos con el mundo. Prepárate para compartir momentos épicos junto al Smartphone Galaxy S23 5G."
+      ],
+      "price": 1159,
+      "quantity": 1,
+      "categoryId": 6
+    },
+    {
+      "id": 22,
+      "title": [
+        "Portátil - ASUS Vivobook",
+        " Go E1504FA-NJ644, 15.6 Full HD, AMD Ryzen™ 5 7520U, 16GB RAM, 512GB SSD, Radeon™ 610M, Sin sistema operativo"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_56c9240a-e196-4b1b-9429-57a956e34de4_1024x1024.png?v=1710160364",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_9860d9cc-6ca5-45a4-a09d-45d74854d0a9_large.png?v=1710160364",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_29b28b03-3e12-4ac0-8d7e-0de7cea413d0_large.png?v=1710160364",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_158f94b9-5735-40d0-b961-7e21c7f81566_large.png?v=1710160364"
+      ],
+      "descriptionText": [
+        "El portátil ASUS Vivobook Go E1504FA-NJ644 está diseñado para que seas productivo y te mantengas entretenido dondequiera que vayas. Con su bisagra plana de 180°, protección física para la cámara y un montón de características de diseño bien pensadas. ¡Vivobook Go 15 es el portátil que te hace libre!"
+      ],
+      "price": 379,
+      "quantity": 1,
+      "categoryId": 6
+    },
+    {
+      "id": 23,
+      "title": [
+        "Portátil - Acer Aspire 15",
+        " A315-44P, 15.6 Full HD, AMD Ryzen™ 7 5700U, 16GB RAM, 512GB SSD, Radeon™ Graphics, Sin sistema operativo"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_4352ae8f-b472-4652-903b-5b0f81a908c1_1024x1024.png?v=1714493584",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_a4284132-4327-406f-88b8-ab5201636660_large.png?v=1714493584",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_816c6fdd-d836-4376-98b9-df69aa08e9fb_large.png?v=1714493584",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_066cce81-afe8-4c79-8717-93dc2faf8e0f_large.png?v=1714493584"
+      ],
+      "descriptionText": [
+        "Con el portátil Acer Aspire 315-44P en color gris, no encontrarás rival en tu proyectos y trabajos. Además de ser ultra ligero y fino, tiene una autonomía de hasta 9.5 horas y gráfica AMD Radeon™ Graphics que te harán elevar tus diseños a otra dimensión."
+      ],
+      "originalPrice": 499,
+      "discPrice": 429,
+      "price": 429,
+      "quantity": 1,
+      "categoryId": 6
+    },
+    {
+      "id": 24,
+      "title": [
+        "Convertible 2 en 1 - Lenovo IdeaPad",
+        " Flex 5 14ABR8, 14 WUXGA, AMD Ryzen™ 5 7530U, 16GB RAM, 512GB SSD, Radeon™ Graphics, W11H, Azul"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_4ac91256-65d1-4ae7-afb7-e81279efb55c_1024x1024.png?v=1696520171",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_eab652f9-24af-473f-a427-458d4d43f447_large.png?v=1696520175",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_5ccd115c-b9dd-4481-855b-9a6d50177cc2_large.png?v=1696520177",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_075f4c6d-b746-4b12-8b36-2b25dd506c81_large.png?v=1696520180"
+      ],
+      "descriptionText": [
+        "El convertible 2 en 1 Lenovo IdeaPad Flex 5 14ABR8 en color Stone Blue, funciona como aliado para la multiplicidad de tareas. Con un procesador de alta gama y características especiales que te permitirán utilizarlo como desees, te sentirás invencible."
+      ],
+      "originalPrice": 829,
+      "discPrice": 599,
+      "quantity": 1,
+      "price": 599,
+      "categoryId": 6
+    },
+    {
+      "id": 25,
+      "title": [
+        "Portátil gaming - Acer Nitro 5",
+        " AN515-58-563L, 15.6 Full HD, Intel® Core™ i5-12450H, 16GB RAM, 512GB SSD, GeForce RTX™ 4060, Windows 11 Home"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_b3b85efd-c429-45c0-b899-ac8a0972869f_1024x1024.png?v=1698418488",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_0f4addda-dfdc-414f-9932-bd29bd4d27f7_large.png?v=1698418520",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6933efec-b38c-4575-a8ae-09c737b877c5_large.png?v=1698418522",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_12ef146d-833a-46d5-a299-af68c2d10bb6_large.png?v=1698418601"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB"
+      ],
+      "originalPrice": 1169,
+      "discPrice": 929,
+      "price": 929,
+      "quantity": 1,
+      "categoryId": 6
     }
   ],
   "categories": [
@@ -147,6 +520,107 @@
     {
       "id": 6,
       "name": "Laptops"
+    }
+  ],
+  "shoppingcart": [
+    {
+      "id": 11,
+      "title": [
+        "Bapple QLED 43",
+        " - Xiaomi A PRO 2025 43, QLED 4K, Smart TV (Google TV), Dolby Vision, Control por voz, Black"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_e4a74989-77de-4685-80a5-4e86576989e1_1024x1024.png?v=1715244823",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_104bc4e4-4b10-4ae6-a969-94e23edf5dc2_large.png?v=1715244826",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3c108c63-838e-4322-a7e9-945c487389ae_large.png?v=1596821565https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_fe327f7a-b590-4251-84f9-4629d0808039_large.png?v=1715244829"
+      ],
+      "descriptionText": [
+        "Disfruta de una experiencia de cine con la televisión Xiaomi A PRO 2025 con un diseño de marcos ultrafinos, sonido Dolby y sistema Google Tv para disfrutar de todas tus películas y series favoritas."
+      ],
+      "price": 269,
+      "quantity": 7,
+      "categoryId": 3
+    },
+    {
+      "id": 12,
+      "title": [
+        "TV LED 55",
+        " - Hisense 55A6N, UHD 4K, Smart TV, HDR 10+, Dolby Vision, Control por Voz, Modo Juego, IA, Negro"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_18e2ef6a-b593-45ce-9904-efe0d13e575d_1024x1024.png?v=1718380450",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1ae4b494-a3be-49b0-89a8-e2a5b845ab74_large.png?v=1718380450",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_80b82255-205e-4513-bb59-eb8744050f23_large.png?v=1718380450"
+      ],
+      "descriptionText": [
+        "Experimenta una calidad de imagen excepcional con el televisor Hisense 4K UHD 50A6N. Con su impresionante resolución, cada detalle cobra vida con una claridad asombrosa y colores vibrantes, brindándote una experiencia visual envolvente que transforma tu sala de estar en un cine personal. Equipado con un potente procesador Quad Core/ MT9603 y el sistema operativo VIDAA U7.6, garantiza un rendimiento fluido y una navegación intuitiva, permitiéndote disfrutar de tu contenido favorito."
+      ],
+      "price": 379,
+      "quantity": 17,
+      "categoryId": 3
+    },
+    {
+      "id": 15,
+      "title": [
+        "TV Neo QLED 55",
+        " - Samsung TQ55QN90CATXXC, Neo QLED 4K, Neural Quantum Processor 4K, Smart TV, DVB-T2 (H.265), Carbón Silver"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_5300ac96-52ae-4290-9a20-c4138d20a5af_1024x1024.png?v=1718298037",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_8f780e9a-ecab-4653-afb1-065d863e6dfc_large.png?v=1718298037",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1fe34229-6c9e-4abe-9bab-a14b5a5530b2_large.png?v=1718298037"
+      ],
+      "descriptionText": [
+        "Disfruta de la calidad de imagen Full HD con la televisión Peaq PTV 40F-5024C."
+      ],
+      "price": 989,
+      "quantity": 5,
+      "categoryId": 3
+    },
+    {
+      "id": 18,
+      "title": [
+        "Móvil - Xiaomi Redmi Note 13 Pro 5G",
+        ", Azul, 256 GB, 8 GB RAM, 6.67 AMOLED 1.5K, Qualcomm Snapdragon 7 Gen 2, 5100 mAh, Android"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_7e97c4df-0c9b-491a-afe1-9b7290de143c_1024x1024.png?v=1704458887",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_f1d4d66b-a999-4cd3-a9ee-c848f4acb768_large.png?v=1704458889",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6d08023e-2c15-4ca7-94b7-aa4d77a56e51_large.png?v=1704458909"
+      ],
+      "descriptionText": [
+        "Redmi Note 13 Pro 5G no solo es un smartphone, es una auténtica revolución en diseño que no pasará desapercibida. Su acabado, que solo se encuentra en terminales premium, atraerá todas las miradas. Con una pantalla curva, este dispositivo se siente como una joya en tus manos, y su estilo es innegable. No contento con ser simplemente elegante, el Redmi Note 13 Pro 5G también juega con sus colores Midnight Black, Ocean Teal, Aurora Purple para que encuentres el estilo perfecto para ti. Además, sus bordes planos facilitan un agarre preciso y cómodo."
+      ],
+      "price": 313,
+      "quantity": 1,
+      "categoryId": 2
+    },
+    {
+      "title": [
+        "Bapple QLED 43",
+        " - Xiaomi A PRO 2025 43, QLED 4K, Smart TV (Google TV), Dolby Vision, Control por voz, Black"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_e4a74989-77de-4685-80a5-4e86576989e1_1024x1024.png?v=1715244823",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_104bc4e4-4b10-4ae6-a969-94e23edf5dc2_large.png?v=1715244826",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3c108c63-838e-4322-a7e9-945c487389ae_large.png?v=1596821565https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_fe327f7a-b590-4251-84f9-4629d0808039_large.png?v=1715244829"
+      ],
+      "descriptionText": [
+        "Disfruta de una experiencia de cine con la televisión Xiaomi A PRO 2025 con un diseño de marcos ultrafinos, sonido Dolby y sistema Google Tv para disfrutar de todas tus películas y series favoritas."
+      ],
+      "price": 269,
+      "quantity": 7,
+      "categoryId": 3,
+      "id": 19
+    },
+    {
+      "title": "Omar Book",
+      "description": "omar1",
+      "author": {
+        "name": "Zabit",
+        "biography": "Good fighter bus his cardio is questionable"
+      },
+      "id": 20
     }
   ]
 }
