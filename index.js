@@ -1,20 +1,21 @@
-
-const jsonServer = require('json-server');
-const morgan = require('morgan');
+require("dotenv").config();
+const jsonServer = require("json-server");
+const morgan = require("morgan");
 
 const server = jsonServer.create();
-const router = jsonServer.router('db.json');
+const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
+const PORT = process.env.PORT;
 
 server.use(middlewares);
-server.use(morgan('dev'));
+server.use(morgan("dev"));
 server.use((req, res, next) => {
   // Middleware to disable CORS
-  res.header('Access-Control-Allow-Origin', '*');
+  res.header("Access-Control-Allow-Origin", "*");
   next();
 });
 server.use(router);
 
-server.listen(8000, () => {
-  console.log(`JSON Server is running at port 8000`);
+server.listen(PORT, () => {
+  console.log(`JSON Server is running at port ${PORT}`);
 });
